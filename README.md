@@ -1,2 +1,5 @@
 # Tuning-PID-Controller-of-DC-motor-using-ZN
-This repository containing Arduino code for tuning PID controller of DC motor using Ziegler Nicholas method
+This repository contains Arduino code for tuning the PID controller of a DC motor using the Ziegler-Nicholas method
+
+
+Youtube Video: https://youtu.be/KNSe9f_7OSQ
